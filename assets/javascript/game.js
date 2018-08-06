@@ -60,11 +60,13 @@ $(document).on("click", ".crystal-image", function(){
     $("#score").text(score);
     if (score === targetNumber) {
         wins++;
+        $(".stats").css("border-color", "green");
         $("#result").text(" You win!");
         startGame();
     }
     else if (score > targetNumber){
         losses++;
+        $(".stats").css("border-color", "red");
         $("#result").text(" You lose!");
         startGame();
     }

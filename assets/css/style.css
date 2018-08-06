@@ -51,7 +51,7 @@ li {
 
 .stats {
     margin: 50px auto;;
-    border: 2px solid red;
+    border: 2px solid gray;
     color: wheat;
     font-weight: bold;
     height: 130px;
@@ -74,8 +74,8 @@ li {
 }
 
 .modal-content {
-    background-color: wheat;
-    color: brown;
+    background-color: orange;
+    color: white;
     margin: auto;
     padding: 20px;
     border: 1px solid orangered;
@@ -84,7 +84,7 @@ li {
 }
 
 .close {
-    color:orangered;
+    color:black;
     text-align: right;
     font-size: 28px;
     font-weight: bold;
