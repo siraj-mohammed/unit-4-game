@@ -4,6 +4,7 @@ How good is your arithmetic? How about your memory?
 
 Play this game and find out!
 
+https://siraj-mohammed.github.io/unit-4-game/
 
 You will be given a random number at the start of the game. That will be your target score.
 
